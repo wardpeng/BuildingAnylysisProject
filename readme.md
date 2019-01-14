@@ -2,8 +2,6 @@
 
 ## Parts of Analysis Result
 
- 
-
 [Result See]: Document/AnalyseResult/AnalyseReuslt.xlsx	"Result"
 
 ## Parts of result
