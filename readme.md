@@ -1,4 +1,4 @@
-# Building Analysis Result Project
+# Building Analysis Project
 
 ## Parts of Analysis Result
 
